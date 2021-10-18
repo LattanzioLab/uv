@@ -1,0 +1,11 @@
+Contains program code, Fritzing diagram, Circuit diagram, and case STL model files for homemade UV preference logger. Our logger has six sensors to match the experimental arena in our laboratory. This arena has the following dimensions: overall dimensions: 91 cm × 60 cm × 20.5 cm; lane dimensions: 91 cm × 10 cm × 20.5 cm; both L × W × H. The methodology employed in our code was designed to match our methods assessing temperature regulation behavior in the same arena. In effect, we are taking advantage of a classic approach in thermal biology to evaluate UV regulation in the lab by lizards. 
+
+
+Our data logger relies on:
+
+-Adafruit GUVA-S12SD analog UV sensor breakout: https://www.adafruit.com/product/1918
+-Arduino Pro Mini 3.3V: https://www.arduino.cc/en/pmwiki.php?n=Main/ArduinoBoardProMini
+-Adafruit microSD breakout: https://www.adafruit.com/product/254
+-Small speaker: https://www.amazon.com/Uxcell-a15080600ux0275-Internal-Magnet-Speaker/dp/B0177ABRQ6/
+-Battery jumper (9V, or a 3-AA holder will work as well): https://www.amazon.com/DZS-Elec-Battery-Connector-Experimental/dp/B07FDYVD11/
+
