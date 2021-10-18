@@ -1,4 +1,4 @@
-# uv
+# Active regulation of Ultraviolet (UV) light
 Collection of materials relevant to our ongoing research testing hypotheses about UV light regulation in reptiles. 
 
 In brief, almost a century of ecological and evolutionary studies have established the importance of daily behaviors like basking and shuttling (movements between sun and shade) by lizards and other ectotherms for maintaining thermal homeostasis. That is, for regulating their internal body temperatures. In fact, those behaviors have become synonymous with temperature regulation--so much that they are putatively referred to as 'thermoregulatory behavior.' 
