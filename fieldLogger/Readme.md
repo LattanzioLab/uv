@@ -14,7 +14,8 @@ Details on logger housing components (3D printed and otherwise), as well as samp
 Stay tuned for more from my research lab as the story continues to unfold! 
 
 # License Information
-License and attribution information are provided in the main UV project Readme.md file for my research lab, currently located in LattanzioLab/uv. Please review this information, and feel free to reach out with any questions/concerns. 
+License and attribution information are provided in the main UV project [Readme.md][readme-main] file for my research lab, currently located in LattanzioLab/uv. Please review this information, and feel free to reach out with any questions/concerns. 
 
+[readme-main]: https://github.com/LattanzioLab/uv/blob/main/README.md
 [solarmeter-65r]: https://www.solarmeter.com/product/model65r/
 [uv-index]: https://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/uv_information.shtml
