@@ -38,4 +38,16 @@ Laing C.J., Fraser, D.R. (1999). The vitamin D system in iguanian lizards. Compa
 
 Stumpf, W.E. (1988). The endocrinology of sunlight and darkness: complementary roles of vitamin D and pineal hormones. Naturwissenschaften. 75:247-251. 
 
+# License
+Software/Code released under a [MIT License][mit-license].
 
+Logger devices (hardware assemblies, modifications, and documentation thereof) are released under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[mit-license]: https://opensource.org/license/mit/
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
