@@ -4,7 +4,7 @@ authors:
   - family-names: Lattanzio
     given-names: Matthew S.
     orcid: https://orcid.org/0000-0003-2371-0913
-title: "Field UV Data Logger"
+title: "Lab and Field UV Data Loggers"
 version: 1.0.0
 identifiers:
   - type: doi
