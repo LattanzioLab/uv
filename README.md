@@ -1,4 +1,4 @@
-# Active regulation of Ultraviolet (UV) light
+# Active regulation of Ultraviolet (UV) light by wildlife
 Collection of materials relevant to our ongoing research testing hypotheses about UV light regulation in reptiles. 
 
 In brief, almost a century of ecological and evolutionary studies have established the importance of daily behaviors like basking and shuttling (movements between sun and shade) by lizards and other ectotherms for maintaining thermal homeostasis. That is, for regulating their internal body temperatures. In fact, those behaviors have become synonymous with temperature regulation--so much that they are putatively referred to as 'thermoregulatory behavior.' 
@@ -16,7 +16,7 @@ UV exposure stimulates endogenous production of vitamin D3 (Holick et al. 1995).
 We capitalize on a classic framework (Hertz et al. 1993) for evaluating active temperature regulation in ectotherms ("cold-blooded" animals), Arduino-based electronic sensors and other components, and our lab's 3D printer, to study active UV regulation in those species. 
 
 
-Please reach out if you have any questions about the materials in this repository, and also please cite our work if you publish your findings! 
+Please reach out if you have any questions about the materials in this repository, and also make sure to follow license and attribution guidance too (see LICENSE files); and cite this repository and related publications in your works. Thanks so much!  
 
 Cheers,
 The Lattanzio Lab
