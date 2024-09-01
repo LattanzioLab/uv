@@ -1,1 +1,1 @@
-
+Files needed for the 3D printable housing components for the UV data logger as described in Lattanzio (2024) Methods in Ecology and Evolution. A detailed build guide is provided in the supporting information of that paper. 
